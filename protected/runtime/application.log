@@ -1,0 +1,1790 @@
+2014/12/18 16:08:52 [trace] [system.CModule] Loading "log" application component
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:08:52 [trace] [system.CModule] Loading "booster" application component
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:08:52 [trace] [system.CModule] Loading "clientScript" application component
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/components/Booster.php (420)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/components/Booster.php (212)
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:08:52 [trace] [system.CModule] Loading "request" application component
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/NLSClientScript.php (515)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/components/Booster.php (420)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/components/Booster.php (212)
+2014/12/18 16:08:52 [trace] [system.CModule] Loading "assetManager" application component
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/components/Booster.php (413)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/components/packages.php (14)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/components/Booster.php (260)
+2014/12/18 16:08:55 [trace] [system.CModule] Loading "urlManager" application component
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:08:55 [trace] [system.CModule] Loading "widgetFactory" application component
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/layouts/column1.php (2)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/SiteController.php (103)
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:08:55 [trace] [system.CModule] Loading "user" application component
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/layouts/main.php (35)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/layouts/column1.php (6)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/SiteController.php (103)
+2014/12/18 16:08:55 [trace] [system.CModule] Loading "session" application component
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/layouts/main.php (35)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/layouts/column1.php (6)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/SiteController.php (103)
+2014/12/18 16:08:55 [trace] [system.CModule] Loading "coreMessages" application component
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/layouts/main.php (54)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/layouts/column1.php (6)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/SiteController.php (103)
+2014/12/18 16:08:58 [trace] [system.CModule] Loading "log" application component
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:08:58 [trace] [system.CModule] Loading "booster" application component
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:08:58 [trace] [system.CModule] Loading "clientScript" application component
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/components/Booster.php (420)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/components/Booster.php (212)
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:08:58 [trace] [system.CModule] Loading "request" application component
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/NLSClientScript.php (515)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/components/Booster.php (420)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/components/Booster.php (212)
+2014/12/18 16:08:58 [trace] [system.CModule] Loading "assetManager" application component
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/components/Booster.php (413)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/components/packages.php (14)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/components/Booster.php (260)
+2014/12/18 16:08:58 [trace] [system.CModule] Loading "urlManager" application component
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:08:58 [trace] [system.web.filters.CFilterChain] Running filter CallController.filteraccessControl()
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:08:58 [trace] [system.CModule] Loading "user" application component
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:08:58 [trace] [system.CModule] Loading "session" application component
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:08:58 [trace] [system.db.ar.CActiveRecord] ContactType.find()
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/models/ContactType.php (105)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (181)
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:08:58 [trace] [system.CModule] Loading "db" application component
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/models/ContactType.php (105)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (181)
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:08:58 [trace] [system.db.CDbConnection] Opening DB connection
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/models/ContactType.php (105)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (181)
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:08:58 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `contact_type`
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/models/ContactType.php (105)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (181)
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:08:58 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `contact_type`
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/models/ContactType.php (105)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (181)
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:08:58 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `contact_type` `t` WHERE name=:name LIMIT 1
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/models/ContactType.php (105)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (181)
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:08:58 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `contact`
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (86)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (183)
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:08:58 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `contact`
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (86)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (183)
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:08:58 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `client`
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (87)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (183)
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:08:58 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `client`
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (87)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (183)
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:08:58 [trace] [system.CModule] Loading "widgetFactory" application component
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/_form.php (17)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/create.php (16)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (102)
+2014/12/18 16:08:58 [trace] [system.db.ar.CActiveRecord] StudyForm.findAll()
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/_form.php (83)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/create.php (16)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (102)
+2014/12/18 16:08:58 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `study_form`
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/_form.php (83)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/create.php (16)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (102)
+2014/12/18 16:08:58 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `study_form`
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/_form.php (83)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/create.php (16)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (102)
+2014/12/18 16:08:58 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `study_form` `t` WHERE parent_id IS NULL
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/_form.php (83)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/create.php (16)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (102)
+2014/12/18 16:08:58 [trace] [system.db.ar.CActiveRecord] lazy loading Contact.studyForms
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/models/Contact.php (232)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbActiveForm.php (1293)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbActiveForm.php (1152)
+2014/12/18 16:08:58 [trace] [system.db.ar.CActiveRecord] ViewPurpose.findAll()
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/models/ViewPurpose.php (110)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/_form.php (94)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/create.php (16)
+2014/12/18 16:08:58 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `view_purpose`
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/models/ViewPurpose.php (110)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/_form.php (94)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/create.php (16)
+2014/12/18 16:08:58 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `view_purpose`
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/models/ViewPurpose.php (110)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/_form.php (94)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/create.php (16)
+2014/12/18 16:08:58 [trace] [system.db.CDbCommand] Querying SQL: SELECT purpose_id FROM `view_purpose` `t` WHERE contact_type_id=:c_t_id
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/models/ViewPurpose.php (110)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/_form.php (94)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/create.php (16)
+2014/12/18 16:08:58 [trace] [system.db.ar.CActiveRecord] Purpose.findAllByAttributes()
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/models/ViewPurpose.php (115)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/_form.php (94)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/create.php (16)
+2014/12/18 16:08:58 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `purpose`
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/models/ViewPurpose.php (115)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/_form.php (94)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/create.php (16)
+2014/12/18 16:08:58 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `purpose`
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/models/ViewPurpose.php (115)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/_form.php (94)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/create.php (16)
+2014/12/18 16:08:58 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `purpose` `t` WHERE `t`.`id` IN (1, 2, 3, 4, 5)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/models/ViewPurpose.php (115)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/_form.php (94)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/create.php (16)
+2014/12/18 16:08:58 [trace] [system.db.ar.CActiveRecord] lazy loading Contact.purposes
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/models/Contact.php (243)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbActiveForm.php (1293)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbActiveForm.php (1152)
+2014/12/18 16:08:58 [trace] [system.db.ar.CActiveRecord] ViewResult.findAll()
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/models/ViewResult.php (110)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/_form.php (105)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/create.php (16)
+2014/12/18 16:08:58 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `view_result`
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/models/ViewResult.php (110)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/_form.php (105)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/create.php (16)
+2014/12/18 16:08:58 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `view_result`
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/models/ViewResult.php (110)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/_form.php (105)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/create.php (16)
+2014/12/18 16:08:58 [trace] [system.db.CDbCommand] Querying SQL: SELECT result_id FROM `view_result` `t` WHERE contact_type_id=:c_t_id
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/models/ViewResult.php (110)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/_form.php (105)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/create.php (16)
+2014/12/18 16:08:59 [trace] [system.db.ar.CActiveRecord] Result.findAllByAttributes()
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/models/ViewResult.php (115)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/_form.php (105)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/create.php (16)
+2014/12/18 16:08:59 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `result`
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/models/ViewResult.php (115)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/_form.php (105)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/create.php (16)
+2014/12/18 16:08:59 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `result`
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/models/ViewResult.php (115)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/_form.php (105)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/create.php (16)
+2014/12/18 16:08:59 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `result` `t` WHERE `t`.`id` IN (1, 2, 3, 4, 5)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/models/ViewResult.php (115)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/_form.php (105)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/create.php (16)
+2014/12/18 16:08:59 [trace] [system.db.ar.CActiveRecord] lazy loading Contact.results
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/models/Contact.php (254)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbActiveForm.php (1293)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbActiveForm.php (1152)
+2014/12/18 16:08:59 [trace] [system.db.ar.CActiveRecord] Contact.count()
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbGridView.php (68)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbExtendedGridView.php (234)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/_grid.php (80)
+2014/12/18 16:08:59 [trace] [system.db.ar.CActiveRecord] Contact.count() eagerly
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbGridView.php (68)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbExtendedGridView.php (234)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/_grid.php (80)
+2014/12/18 16:08:59 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `contact_study_form`
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbGridView.php (68)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbExtendedGridView.php (234)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/_grid.php (80)
+2014/12/18 16:08:59 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `contact_study_form`
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbGridView.php (68)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbExtendedGridView.php (234)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/_grid.php (80)
+2014/12/18 16:08:59 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `contact_purpose`
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbGridView.php (68)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbExtendedGridView.php (234)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/_grid.php (80)
+2014/12/18 16:08:59 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `contact_purpose`
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbGridView.php (68)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbExtendedGridView.php (234)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/_grid.php (80)
+2014/12/18 16:08:59 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `contact_result`
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbGridView.php (68)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbExtendedGridView.php (234)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/_grid.php (80)
+2014/12/18 16:08:59 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `contact_result`
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbGridView.php (68)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbExtendedGridView.php (234)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/_grid.php (80)
+2014/12/18 16:08:59 [trace] [system.db.CDbCommand] Querying SQL: SELECT COUNT(DISTINCT `t`.`id`) FROM `contact` `t`  LEFT OUTER JOIN `client` `client` ON (`t`.`client_id`=`client`.`id`)  LEFT OUTER JOIN `contact_study_form` `studyForms_studyForms` ON (`t`.`id`=`studyForms_studyForms`.`contact_id`) LEFT OUTER JOIN `study_form` `studyForms` ON (`studyForms`.`id`=`studyForms_studyForms`.`study_form_id`)  LEFT OUTER JOIN `contact_purpose` `purposes_purposes` ON (`t`.`id`=`purposes_purposes`.`contact_id`) LEFT OUTER JOIN `purpose` `purposes` ON (`purposes`.`id`=`purposes_purposes`.`purpose_id`)  LEFT OUTER JOIN `contact_result` `results_results` ON (`t`.`id`=`results_results`.`contact_id`) LEFT OUTER JOIN `result` `results` ON (`results`.`id`=`results_results`.`result_id`)  WHERE (contact_type_id=:c_t_id AND DATEDIFF(CURDATE(), datetime)<=:days)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbGridView.php (68)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbExtendedGridView.php (234)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/_grid.php (80)
+2014/12/18 16:08:59 [trace] [system.db.ar.CActiveRecord] Contact.findAll()
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbGridView.php (68)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbExtendedGridView.php (234)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/_grid.php (80)
+2014/12/18 16:08:59 [trace] [system.db.CDbCommand] Querying SQL: SELECT `t`.`id` AS `t0_c0`, `t`.`client_id` AS `t0_c1`, `t`.`datetime` AS `t0_c2`, `t`.`contact_type_id` AS `t0_c3`, `t`.`contract_id` AS `t0_c4`, `t`.`comment` AS `t0_c5`, `t`.`recall` AS `t0_c6`, `t`.`event_id` AS `t0_c7`, `client`.`id` AS `t1_c0`, `client`.`name` AS `t1_c1`, `client`.`phone` AS `t1_c2`, `client`.`phone2` AS `t1_c3`, `client`.`phone3` AS `t1_c4`, `client`.`email` AS `t1_c5`, `client`.`age` AS `t1_c6`, `client`.`job` AS `t1_c7`, `client`.`user_id` AS `t1_c8`, `client`.`city_id` AS `t1_c9` FROM `contact` `t`  LEFT OUTER JOIN `client` `client` ON (`t`.`client_id`=`client`.`id`)  WHERE (contact_type_id=:c_t_id AND DATEDIFF(CURDATE(), datetime)<=:days) ORDER BY datetime DESC LIMIT 10
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbGridView.php (68)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbExtendedGridView.php (234)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/_grid.php (80)
+2014/12/18 16:08:59 [trace] [system.db.CDbCommand] Querying SQL: SELECT `t`.`id` AS `t0_c0`, `studyForms`.`id` AS `t2_c0`, `studyForms`.`parent_id` AS `t2_c1`, `studyForms`.`name` AS `t2_c2` FROM `contact` `t` LEFT OUTER JOIN `contact_study_form` `studyForms_studyForms` ON (`t`.`id`=`studyForms_studyForms`.`contact_id`) LEFT OUTER JOIN `study_form` `studyForms` ON (`studyForms`.`id`=`studyForms_studyForms`.`study_form_id`)  WHERE (`t`.`id`=16)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbGridView.php (68)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbExtendedGridView.php (234)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/_grid.php (80)
+2014/12/18 16:08:59 [trace] [system.db.CDbCommand] Querying SQL: SELECT `t`.`id` AS `t0_c0`, `purposes`.`id` AS `t3_c0`, `purposes`.`name` AS `t3_c1` FROM `contact` `t` LEFT OUTER JOIN `contact_purpose` `purposes_purposes` ON (`t`.`id`=`purposes_purposes`.`contact_id`) LEFT OUTER JOIN `purpose` `purposes` ON (`purposes`.`id`=`purposes_purposes`.`purpose_id`)  WHERE (`t`.`id`=16)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbGridView.php (68)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbExtendedGridView.php (234)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/_grid.php (80)
+2014/12/18 16:08:59 [trace] [system.db.CDbCommand] Querying SQL: SELECT `t`.`id` AS `t0_c0`, `results`.`id` AS `t4_c0`, `results`.`name` AS `t4_c1` FROM `contact` `t` LEFT OUTER JOIN `contact_result` `results_results` ON (`t`.`id`=`results_results`.`contact_id`) LEFT OUTER JOIN `result` `results` ON (`results`.`id`=`results_results`.`result_id`)  WHERE (`t`.`id`=16)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbGridView.php (68)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbExtendedGridView.php (234)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/_grid.php (80)
+2014/12/18 16:08:59 [trace] [system.CModule] Loading "coreMessages" application component
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbButtonColumn.php (44)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbGridView.php (125)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbGridView.php (68)
+2014/12/18 16:08:59 [trace] [system.CModule] Loading "format" application component
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbExtendedGridView.php (632)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbExtendedGridView.php (244)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/_grid.php (80)
+2014/12/18 16:09:10 [trace] [system.CModule] Loading "log" application component
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:09:10 [trace] [system.CModule] Loading "booster" application component
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:09:10 [trace] [system.CModule] Loading "clientScript" application component
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/components/Booster.php (420)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/components/Booster.php (212)
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:09:10 [trace] [system.CModule] Loading "request" application component
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/NLSClientScript.php (515)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/components/Booster.php (420)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/components/Booster.php (212)
+2014/12/18 16:09:10 [trace] [system.CModule] Loading "assetManager" application component
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/components/Booster.php (413)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/components/packages.php (14)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/components/Booster.php (260)
+2014/12/18 16:09:10 [trace] [system.CModule] Loading "urlManager" application component
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:09:10 [trace] [system.web.filters.CFilterChain] Running filter CallController.filteraccessControl()
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:09:10 [trace] [system.CModule] Loading "user" application component
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:09:10 [trace] [system.CModule] Loading "session" application component
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:09:10 [trace] [system.CModule] Loading "db" application component
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (138)
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:09:10 [trace] [system.db.CDbConnection] Opening DB connection
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (138)
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:09:10 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `contact`
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (138)
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:09:10 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `contact`
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (138)
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:09:10 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `client`
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (139)
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:09:10 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `client`
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (139)
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:09:10 [trace] [system.CModule] Loading "coreMessages" application component
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (142)
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:09:10 [warning] [application] Не удалось присвоить небезопасный атрибут "clientName" класса "Contact".
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (142)
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:09:10 [warning] [application] Не удалось присвоить небезопасный атрибут "clientPhone" класса "Contact".
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (142)
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:09:10 [trace] [system.CModule] Loading "widgetFactory" application component
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/_grid.php (9)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (151)
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:09:10 [trace] [system.db.ar.CActiveRecord] Contact.count()
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbGridView.php (68)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbExtendedGridView.php (234)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/_grid.php (80)
+2014/12/18 16:09:10 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `study_form`
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbGridView.php (68)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbExtendedGridView.php (234)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/_grid.php (80)
+2014/12/18 16:09:10 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `study_form`
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbGridView.php (68)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbExtendedGridView.php (234)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/_grid.php (80)
+2014/12/18 16:09:10 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `purpose`
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbGridView.php (68)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbExtendedGridView.php (234)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/_grid.php (80)
+2014/12/18 16:09:10 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `purpose`
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbGridView.php (68)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbExtendedGridView.php (234)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/_grid.php (80)
+2014/12/18 16:09:10 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `result`
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbGridView.php (68)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbExtendedGridView.php (234)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/_grid.php (80)
+2014/12/18 16:09:10 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `result`
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbGridView.php (68)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbExtendedGridView.php (234)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/_grid.php (80)
+2014/12/18 16:09:10 [trace] [system.db.ar.CActiveRecord] Contact.count() eagerly
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbGridView.php (68)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbExtendedGridView.php (234)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/_grid.php (80)
+2014/12/18 16:09:10 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `contact_study_form`
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbGridView.php (68)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbExtendedGridView.php (234)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/_grid.php (80)
+2014/12/18 16:09:10 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `contact_study_form`
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbGridView.php (68)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbExtendedGridView.php (234)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/_grid.php (80)
+2014/12/18 16:09:10 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `contact_purpose`
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbGridView.php (68)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbExtendedGridView.php (234)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/_grid.php (80)
+2014/12/18 16:09:10 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `contact_purpose`
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbGridView.php (68)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbExtendedGridView.php (234)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/_grid.php (80)
+2014/12/18 16:09:10 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `contact_result`
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbGridView.php (68)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbExtendedGridView.php (234)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/_grid.php (80)
+2014/12/18 16:09:10 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `contact_result`
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbGridView.php (68)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbExtendedGridView.php (234)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/_grid.php (80)
+2014/12/18 16:09:10 [trace] [system.db.CDbCommand] Querying SQL: SELECT COUNT(DISTINCT `t`.`id`) FROM `contact` `t`  LEFT OUTER JOIN `client` `client` ON (`t`.`client_id`=`client`.`id`)  LEFT OUTER JOIN `contact_study_form` `studyForms_studyForms` ON (`t`.`id`=`studyForms_studyForms`.`contact_id`) LEFT OUTER JOIN `study_form` `studyForms` ON (`studyForms`.`id`=`studyForms_studyForms`.`study_form_id`)  LEFT OUTER JOIN `contact_purpose` `purposes_purposes` ON (`t`.`id`=`purposes_purposes`.`contact_id`) LEFT OUTER JOIN `purpose` `purposes` ON (`purposes`.`id`=`purposes_purposes`.`purpose_id`)  LEFT OUTER JOIN `contact_result` `results_results` ON (`t`.`id`=`results_results`.`contact_id`) LEFT OUTER JOIN `result` `results` ON (`results`.`id`=`results_results`.`result_id`)  WHERE (contact_type_id=:c_t_id AND DATEDIFF(CURDATE(), datetime)<=:days)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbGridView.php (68)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbExtendedGridView.php (234)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/_grid.php (80)
+2014/12/18 16:09:10 [trace] [system.db.ar.CActiveRecord] Contact.findAll()
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbGridView.php (68)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbExtendedGridView.php (234)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/_grid.php (80)
+2014/12/18 16:09:10 [trace] [system.db.CDbCommand] Querying SQL: SELECT `t`.`id` AS `t0_c0`, `t`.`client_id` AS `t0_c1`, `t`.`datetime` AS `t0_c2`, `t`.`contact_type_id` AS `t0_c3`, `t`.`contract_id` AS `t0_c4`, `t`.`comment` AS `t0_c5`, `t`.`recall` AS `t0_c6`, `t`.`event_id` AS `t0_c7`, `client`.`id` AS `t1_c0`, `client`.`name` AS `t1_c1`, `client`.`phone` AS `t1_c2`, `client`.`phone2` AS `t1_c3`, `client`.`phone3` AS `t1_c4`, `client`.`email` AS `t1_c5`, `client`.`age` AS `t1_c6`, `client`.`job` AS `t1_c7`, `client`.`user_id` AS `t1_c8`, `client`.`city_id` AS `t1_c9` FROM `contact` `t`  LEFT OUTER JOIN `client` `client` ON (`t`.`client_id`=`client`.`id`)  WHERE (contact_type_id=:c_t_id AND DATEDIFF(CURDATE(), datetime)<=:days) ORDER BY datetime DESC LIMIT 10
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbGridView.php (68)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbExtendedGridView.php (234)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/_grid.php (80)
+2014/12/18 16:09:10 [trace] [system.db.CDbCommand] Querying SQL: SELECT `t`.`id` AS `t0_c0`, `studyForms`.`id` AS `t2_c0`, `studyForms`.`parent_id` AS `t2_c1`, `studyForms`.`name` AS `t2_c2` FROM `contact` `t` LEFT OUTER JOIN `contact_study_form` `studyForms_studyForms` ON (`t`.`id`=`studyForms_studyForms`.`contact_id`) LEFT OUTER JOIN `study_form` `studyForms` ON (`studyForms`.`id`=`studyForms_studyForms`.`study_form_id`)  WHERE (`t`.`id`=16)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbGridView.php (68)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbExtendedGridView.php (234)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/_grid.php (80)
+2014/12/18 16:09:11 [trace] [system.db.CDbCommand] Querying SQL: SELECT `t`.`id` AS `t0_c0`, `purposes`.`id` AS `t3_c0`, `purposes`.`name` AS `t3_c1` FROM `contact` `t` LEFT OUTER JOIN `contact_purpose` `purposes_purposes` ON (`t`.`id`=`purposes_purposes`.`contact_id`) LEFT OUTER JOIN `purpose` `purposes` ON (`purposes`.`id`=`purposes_purposes`.`purpose_id`)  WHERE (`t`.`id`=16)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbGridView.php (68)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbExtendedGridView.php (234)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/_grid.php (80)
+2014/12/18 16:09:11 [trace] [system.db.CDbCommand] Querying SQL: SELECT `t`.`id` AS `t0_c0`, `results`.`id` AS `t4_c0`, `results`.`name` AS `t4_c1` FROM `contact` `t` LEFT OUTER JOIN `contact_result` `results_results` ON (`t`.`id`=`results_results`.`contact_id`) LEFT OUTER JOIN `result` `results` ON (`results`.`id`=`results_results`.`result_id`)  WHERE (`t`.`id`=16)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbGridView.php (68)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbExtendedGridView.php (234)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/_grid.php (80)
+2014/12/18 16:09:11 [trace] [system.CModule] Loading "format" application component
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbExtendedGridView.php (632)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbExtendedGridView.php (244)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/_grid.php (80)
+2014/12/18 16:09:11 [trace] [system.CModule] Loading "log" application component
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:09:11 [trace] [system.CModule] Loading "booster" application component
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:09:11 [trace] [system.CModule] Loading "clientScript" application component
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/components/Booster.php (420)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/components/Booster.php (212)
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:09:11 [trace] [system.CModule] Loading "request" application component
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/NLSClientScript.php (515)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/components/Booster.php (420)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/components/Booster.php (212)
+2014/12/18 16:09:11 [trace] [system.CModule] Loading "assetManager" application component
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/components/Booster.php (413)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/components/packages.php (14)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/components/Booster.php (260)
+2014/12/18 16:09:11 [trace] [system.CModule] Loading "urlManager" application component
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:09:11 [trace] [system.web.filters.CFilterChain] Running filter CallController.filteraccessControl()
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:09:11 [trace] [system.CModule] Loading "user" application component
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:09:11 [trace] [system.CModule] Loading "session" application component
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:09:11 [trace] [system.CModule] Loading "db" application component
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (138)
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:09:11 [trace] [system.db.CDbConnection] Opening DB connection
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (138)
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:09:11 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `contact`
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (138)
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:09:11 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `contact`
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (138)
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:09:11 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `client`
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (139)
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:09:11 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `client`
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (139)
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:09:11 [trace] [system.CModule] Loading "coreMessages" application component
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (142)
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:09:11 [warning] [application] Не удалось присвоить небезопасный атрибут "clientName" класса "Contact".
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (142)
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:09:11 [warning] [application] Не удалось присвоить небезопасный атрибут "clientPhone" класса "Contact".
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (142)
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:09:11 [trace] [system.CModule] Loading "widgetFactory" application component
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/_grid.php (9)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (151)
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:09:11 [trace] [system.db.ar.CActiveRecord] Contact.count()
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbGridView.php (68)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbExtendedGridView.php (234)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/_grid.php (80)
+2014/12/18 16:09:11 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `study_form`
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbGridView.php (68)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbExtendedGridView.php (234)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/_grid.php (80)
+2014/12/18 16:09:11 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `study_form`
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbGridView.php (68)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbExtendedGridView.php (234)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/_grid.php (80)
+2014/12/18 16:09:11 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `purpose`
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbGridView.php (68)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbExtendedGridView.php (234)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/_grid.php (80)
+2014/12/18 16:09:11 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `purpose`
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbGridView.php (68)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbExtendedGridView.php (234)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/_grid.php (80)
+2014/12/18 16:09:11 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `result`
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbGridView.php (68)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbExtendedGridView.php (234)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/_grid.php (80)
+2014/12/18 16:09:11 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `result`
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbGridView.php (68)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbExtendedGridView.php (234)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/_grid.php (80)
+2014/12/18 16:09:11 [trace] [system.db.ar.CActiveRecord] Contact.count() eagerly
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbGridView.php (68)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbExtendedGridView.php (234)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/_grid.php (80)
+2014/12/18 16:09:11 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `contact_study_form`
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbGridView.php (68)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbExtendedGridView.php (234)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/_grid.php (80)
+2014/12/18 16:09:11 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `contact_study_form`
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbGridView.php (68)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbExtendedGridView.php (234)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/_grid.php (80)
+2014/12/18 16:09:11 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `contact_purpose`
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbGridView.php (68)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbExtendedGridView.php (234)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/_grid.php (80)
+2014/12/18 16:09:11 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `contact_purpose`
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbGridView.php (68)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbExtendedGridView.php (234)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/_grid.php (80)
+2014/12/18 16:09:11 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `contact_result`
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbGridView.php (68)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbExtendedGridView.php (234)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/_grid.php (80)
+2014/12/18 16:09:11 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `contact_result`
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbGridView.php (68)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbExtendedGridView.php (234)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/_grid.php (80)
+2014/12/18 16:09:11 [trace] [system.db.CDbCommand] Querying SQL: SELECT COUNT(DISTINCT `t`.`id`) FROM `contact` `t`  LEFT OUTER JOIN `client` `client` ON (`t`.`client_id`=`client`.`id`)  LEFT OUTER JOIN `contact_study_form` `studyForms_studyForms` ON (`t`.`id`=`studyForms_studyForms`.`contact_id`) LEFT OUTER JOIN `study_form` `studyForms` ON (`studyForms`.`id`=`studyForms_studyForms`.`study_form_id`)  LEFT OUTER JOIN `contact_purpose` `purposes_purposes` ON (`t`.`id`=`purposes_purposes`.`contact_id`) LEFT OUTER JOIN `purpose` `purposes` ON (`purposes`.`id`=`purposes_purposes`.`purpose_id`)  LEFT OUTER JOIN `contact_result` `results_results` ON (`t`.`id`=`results_results`.`contact_id`) LEFT OUTER JOIN `result` `results` ON (`results`.`id`=`results_results`.`result_id`)  WHERE (contact_type_id=:c_t_id AND DATEDIFF(CURDATE(), datetime)<=:days)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbGridView.php (68)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbExtendedGridView.php (234)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/_grid.php (80)
+2014/12/18 16:09:11 [trace] [system.db.ar.CActiveRecord] Contact.findAll()
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbGridView.php (68)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbExtendedGridView.php (234)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/_grid.php (80)
+2014/12/18 16:09:11 [trace] [system.db.CDbCommand] Querying SQL: SELECT `t`.`id` AS `t0_c0`, `t`.`client_id` AS `t0_c1`, `t`.`datetime` AS `t0_c2`, `t`.`contact_type_id` AS `t0_c3`, `t`.`contract_id` AS `t0_c4`, `t`.`comment` AS `t0_c5`, `t`.`recall` AS `t0_c6`, `t`.`event_id` AS `t0_c7`, `client`.`id` AS `t1_c0`, `client`.`name` AS `t1_c1`, `client`.`phone` AS `t1_c2`, `client`.`phone2` AS `t1_c3`, `client`.`phone3` AS `t1_c4`, `client`.`email` AS `t1_c5`, `client`.`age` AS `t1_c6`, `client`.`job` AS `t1_c7`, `client`.`user_id` AS `t1_c8`, `client`.`city_id` AS `t1_c9` FROM `contact` `t`  LEFT OUTER JOIN `client` `client` ON (`t`.`client_id`=`client`.`id`)  WHERE (contact_type_id=:c_t_id AND DATEDIFF(CURDATE(), datetime)<=:days) ORDER BY datetime DESC LIMIT 10
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbGridView.php (68)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbExtendedGridView.php (234)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/_grid.php (80)
+2014/12/18 16:09:11 [trace] [system.db.CDbCommand] Querying SQL: SELECT `t`.`id` AS `t0_c0`, `studyForms`.`id` AS `t2_c0`, `studyForms`.`parent_id` AS `t2_c1`, `studyForms`.`name` AS `t2_c2` FROM `contact` `t` LEFT OUTER JOIN `contact_study_form` `studyForms_studyForms` ON (`t`.`id`=`studyForms_studyForms`.`contact_id`) LEFT OUTER JOIN `study_form` `studyForms` ON (`studyForms`.`id`=`studyForms_studyForms`.`study_form_id`)  WHERE (`t`.`id`=16)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbGridView.php (68)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbExtendedGridView.php (234)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/_grid.php (80)
+2014/12/18 16:09:11 [trace] [system.db.CDbCommand] Querying SQL: SELECT `t`.`id` AS `t0_c0`, `purposes`.`id` AS `t3_c0`, `purposes`.`name` AS `t3_c1` FROM `contact` `t` LEFT OUTER JOIN `contact_purpose` `purposes_purposes` ON (`t`.`id`=`purposes_purposes`.`contact_id`) LEFT OUTER JOIN `purpose` `purposes` ON (`purposes`.`id`=`purposes_purposes`.`purpose_id`)  WHERE (`t`.`id`=16)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbGridView.php (68)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbExtendedGridView.php (234)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/_grid.php (80)
+2014/12/18 16:09:11 [trace] [system.db.CDbCommand] Querying SQL: SELECT `t`.`id` AS `t0_c0`, `results`.`id` AS `t4_c0`, `results`.`name` AS `t4_c1` FROM `contact` `t` LEFT OUTER JOIN `contact_result` `results_results` ON (`t`.`id`=`results_results`.`contact_id`) LEFT OUTER JOIN `result` `results` ON (`results`.`id`=`results_results`.`result_id`)  WHERE (`t`.`id`=16)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbGridView.php (68)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbExtendedGridView.php (234)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/_grid.php (80)
+2014/12/18 16:09:11 [trace] [system.CModule] Loading "format" application component
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbExtendedGridView.php (632)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbExtendedGridView.php (244)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/_grid.php (80)
+2014/12/18 16:09:16 [trace] [system.CModule] Loading "log" application component
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:09:16 [trace] [system.CModule] Loading "booster" application component
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:09:16 [trace] [system.CModule] Loading "clientScript" application component
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/components/Booster.php (420)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/components/Booster.php (212)
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:09:16 [trace] [system.CModule] Loading "request" application component
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/NLSClientScript.php (515)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/components/Booster.php (420)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/components/Booster.php (212)
+2014/12/18 16:09:16 [trace] [system.CModule] Loading "assetManager" application component
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/components/Booster.php (413)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/components/packages.php (14)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/components/Booster.php (260)
+2014/12/18 16:09:16 [trace] [system.CModule] Loading "urlManager" application component
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:09:16 [trace] [system.web.filters.CFilterChain] Running filter CallController.filteraccessControl()
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:09:16 [trace] [system.CModule] Loading "user" application component
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:09:16 [trace] [system.CModule] Loading "session" application component
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:09:16 [trace] [system.CModule] Loading "db" application component
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (138)
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:09:16 [trace] [system.db.CDbConnection] Opening DB connection
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (138)
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:09:16 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `contact`
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (138)
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:09:16 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `contact`
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (138)
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:09:16 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `client`
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (139)
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:09:16 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `client`
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (139)
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:09:16 [trace] [system.CModule] Loading "coreMessages" application component
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (142)
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:09:16 [warning] [application] Не удалось присвоить небезопасный атрибут "clientName" класса "Contact".
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (142)
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:09:16 [warning] [application] Не удалось присвоить небезопасный атрибут "clientPhone" класса "Contact".
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (142)
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:09:16 [trace] [system.CModule] Loading "widgetFactory" application component
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/_grid.php (9)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (151)
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:09:16 [trace] [system.db.ar.CActiveRecord] Contact.count()
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbGridView.php (68)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbExtendedGridView.php (234)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/_grid.php (80)
+2014/12/18 16:09:16 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `study_form`
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbGridView.php (68)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbExtendedGridView.php (234)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/_grid.php (80)
+2014/12/18 16:09:16 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `study_form`
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbGridView.php (68)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbExtendedGridView.php (234)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/_grid.php (80)
+2014/12/18 16:09:16 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `purpose`
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbGridView.php (68)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbExtendedGridView.php (234)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/_grid.php (80)
+2014/12/18 16:09:16 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `purpose`
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbGridView.php (68)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbExtendedGridView.php (234)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/_grid.php (80)
+2014/12/18 16:09:16 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `result`
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbGridView.php (68)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbExtendedGridView.php (234)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/_grid.php (80)
+2014/12/18 16:09:16 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `result`
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbGridView.php (68)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbExtendedGridView.php (234)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/_grid.php (80)
+2014/12/18 16:09:16 [trace] [system.db.ar.CActiveRecord] Contact.count() eagerly
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbGridView.php (68)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbExtendedGridView.php (234)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/_grid.php (80)
+2014/12/18 16:09:16 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `contact_study_form`
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbGridView.php (68)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbExtendedGridView.php (234)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/_grid.php (80)
+2014/12/18 16:09:16 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `contact_study_form`
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbGridView.php (68)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbExtendedGridView.php (234)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/_grid.php (80)
+2014/12/18 16:09:16 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `contact_purpose`
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbGridView.php (68)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbExtendedGridView.php (234)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/_grid.php (80)
+2014/12/18 16:09:16 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `contact_purpose`
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbGridView.php (68)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbExtendedGridView.php (234)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/_grid.php (80)
+2014/12/18 16:09:16 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `contact_result`
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbGridView.php (68)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbExtendedGridView.php (234)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/_grid.php (80)
+2014/12/18 16:09:16 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `contact_result`
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbGridView.php (68)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbExtendedGridView.php (234)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/_grid.php (80)
+2014/12/18 16:09:16 [trace] [system.db.CDbCommand] Querying SQL: SELECT COUNT(DISTINCT `t`.`id`) FROM `contact` `t`  LEFT OUTER JOIN `client` `client` ON (`t`.`client_id`=`client`.`id`)  LEFT OUTER JOIN `contact_study_form` `studyForms_studyForms` ON (`t`.`id`=`studyForms_studyForms`.`contact_id`) LEFT OUTER JOIN `study_form` `studyForms` ON (`studyForms`.`id`=`studyForms_studyForms`.`study_form_id`)  LEFT OUTER JOIN `contact_purpose` `purposes_purposes` ON (`t`.`id`=`purposes_purposes`.`contact_id`) LEFT OUTER JOIN `purpose` `purposes` ON (`purposes`.`id`=`purposes_purposes`.`purpose_id`)  LEFT OUTER JOIN `contact_result` `results_results` ON (`t`.`id`=`results_results`.`contact_id`) LEFT OUTER JOIN `result` `results` ON (`results`.`id`=`results_results`.`result_id`)  WHERE (contact_type_id=:c_t_id AND DATEDIFF(CURDATE(), datetime)<=:days)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbGridView.php (68)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbExtendedGridView.php (234)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/_grid.php (80)
+2014/12/18 16:09:16 [trace] [system.db.ar.CActiveRecord] Contact.findAll()
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbGridView.php (68)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbExtendedGridView.php (234)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/_grid.php (80)
+2014/12/18 16:09:16 [trace] [system.db.CDbCommand] Querying SQL: SELECT `t`.`id` AS `t0_c0`, `t`.`client_id` AS `t0_c1`, `t`.`datetime` AS `t0_c2`, `t`.`contact_type_id` AS `t0_c3`, `t`.`contract_id` AS `t0_c4`, `t`.`comment` AS `t0_c5`, `t`.`recall` AS `t0_c6`, `t`.`event_id` AS `t0_c7`, `client`.`id` AS `t1_c0`, `client`.`name` AS `t1_c1`, `client`.`phone` AS `t1_c2`, `client`.`phone2` AS `t1_c3`, `client`.`phone3` AS `t1_c4`, `client`.`email` AS `t1_c5`, `client`.`age` AS `t1_c6`, `client`.`job` AS `t1_c7`, `client`.`user_id` AS `t1_c8`, `client`.`city_id` AS `t1_c9` FROM `contact` `t`  LEFT OUTER JOIN `client` `client` ON (`t`.`client_id`=`client`.`id`)  WHERE (contact_type_id=:c_t_id AND DATEDIFF(CURDATE(), datetime)<=:days) ORDER BY datetime DESC LIMIT 10
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbGridView.php (68)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbExtendedGridView.php (234)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/_grid.php (80)
+2014/12/18 16:09:16 [trace] [system.db.CDbCommand] Querying SQL: SELECT `t`.`id` AS `t0_c0`, `studyForms`.`id` AS `t2_c0`, `studyForms`.`parent_id` AS `t2_c1`, `studyForms`.`name` AS `t2_c2` FROM `contact` `t` LEFT OUTER JOIN `contact_study_form` `studyForms_studyForms` ON (`t`.`id`=`studyForms_studyForms`.`contact_id`) LEFT OUTER JOIN `study_form` `studyForms` ON (`studyForms`.`id`=`studyForms_studyForms`.`study_form_id`)  WHERE (`t`.`id`=16)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbGridView.php (68)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbExtendedGridView.php (234)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/_grid.php (80)
+2014/12/18 16:09:16 [trace] [system.db.CDbCommand] Querying SQL: SELECT `t`.`id` AS `t0_c0`, `purposes`.`id` AS `t3_c0`, `purposes`.`name` AS `t3_c1` FROM `contact` `t` LEFT OUTER JOIN `contact_purpose` `purposes_purposes` ON (`t`.`id`=`purposes_purposes`.`contact_id`) LEFT OUTER JOIN `purpose` `purposes` ON (`purposes`.`id`=`purposes_purposes`.`purpose_id`)  WHERE (`t`.`id`=16)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbGridView.php (68)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbExtendedGridView.php (234)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/_grid.php (80)
+2014/12/18 16:09:17 [trace] [system.db.CDbCommand] Querying SQL: SELECT `t`.`id` AS `t0_c0`, `results`.`id` AS `t4_c0`, `results`.`name` AS `t4_c1` FROM `contact` `t` LEFT OUTER JOIN `contact_result` `results_results` ON (`t`.`id`=`results_results`.`contact_id`) LEFT OUTER JOIN `result` `results` ON (`results`.`id`=`results_results`.`result_id`)  WHERE (`t`.`id`=16)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbGridView.php (68)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbExtendedGridView.php (234)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/_grid.php (80)
+2014/12/18 16:09:17 [trace] [system.CModule] Loading "format" application component
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbExtendedGridView.php (632)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbExtendedGridView.php (244)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/_grid.php (80)
+2014/12/18 16:09:17 [trace] [system.CModule] Loading "log" application component
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:09:17 [trace] [system.CModule] Loading "booster" application component
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:09:17 [trace] [system.CModule] Loading "clientScript" application component
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/components/Booster.php (420)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/components/Booster.php (212)
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:09:17 [trace] [system.CModule] Loading "request" application component
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/NLSClientScript.php (515)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/components/Booster.php (420)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/components/Booster.php (212)
+2014/12/18 16:09:17 [trace] [system.CModule] Loading "assetManager" application component
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/components/Booster.php (413)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/components/packages.php (14)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/components/Booster.php (260)
+2014/12/18 16:09:17 [trace] [system.CModule] Loading "urlManager" application component
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:09:17 [trace] [system.web.filters.CFilterChain] Running filter CallController.filteraccessControl()
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:09:17 [trace] [system.CModule] Loading "user" application component
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:09:17 [trace] [system.CModule] Loading "session" application component
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:09:17 [trace] [system.CModule] Loading "db" application component
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (138)
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:09:17 [trace] [system.db.CDbConnection] Opening DB connection
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (138)
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:09:17 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `contact`
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (138)
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:09:17 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `contact`
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (138)
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:09:17 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `client`
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (139)
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:09:17 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `client`
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (139)
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:09:17 [trace] [system.CModule] Loading "coreMessages" application component
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (142)
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:09:17 [warning] [application] Не удалось присвоить небезопасный атрибут "clientName" класса "Contact".
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (142)
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:09:17 [warning] [application] Не удалось присвоить небезопасный атрибут "clientPhone" класса "Contact".
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (142)
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:09:17 [trace] [system.CModule] Loading "widgetFactory" application component
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/_grid.php (9)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (151)
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:09:17 [trace] [system.db.ar.CActiveRecord] Contact.count()
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbGridView.php (68)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbExtendedGridView.php (234)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/_grid.php (80)
+2014/12/18 16:09:17 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `study_form`
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbGridView.php (68)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbExtendedGridView.php (234)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/_grid.php (80)
+2014/12/18 16:09:17 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `study_form`
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbGridView.php (68)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbExtendedGridView.php (234)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/_grid.php (80)
+2014/12/18 16:09:17 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `purpose`
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbGridView.php (68)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbExtendedGridView.php (234)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/_grid.php (80)
+2014/12/18 16:09:17 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `purpose`
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbGridView.php (68)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbExtendedGridView.php (234)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/_grid.php (80)
+2014/12/18 16:09:17 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `result`
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbGridView.php (68)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbExtendedGridView.php (234)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/_grid.php (80)
+2014/12/18 16:09:17 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `result`
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbGridView.php (68)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbExtendedGridView.php (234)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/_grid.php (80)
+2014/12/18 16:09:17 [trace] [system.db.ar.CActiveRecord] Contact.count() eagerly
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbGridView.php (68)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbExtendedGridView.php (234)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/_grid.php (80)
+2014/12/18 16:09:17 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `contact_study_form`
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbGridView.php (68)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbExtendedGridView.php (234)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/_grid.php (80)
+2014/12/18 16:09:17 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `contact_study_form`
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbGridView.php (68)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbExtendedGridView.php (234)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/_grid.php (80)
+2014/12/18 16:09:17 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `contact_purpose`
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbGridView.php (68)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbExtendedGridView.php (234)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/_grid.php (80)
+2014/12/18 16:09:17 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `contact_purpose`
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbGridView.php (68)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbExtendedGridView.php (234)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/_grid.php (80)
+2014/12/18 16:09:17 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `contact_result`
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbGridView.php (68)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbExtendedGridView.php (234)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/_grid.php (80)
+2014/12/18 16:09:17 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `contact_result`
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbGridView.php (68)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbExtendedGridView.php (234)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/_grid.php (80)
+2014/12/18 16:09:17 [trace] [system.db.CDbCommand] Querying SQL: SELECT COUNT(DISTINCT `t`.`id`) FROM `contact` `t`  LEFT OUTER JOIN `client` `client` ON (`t`.`client_id`=`client`.`id`)  LEFT OUTER JOIN `contact_study_form` `studyForms_studyForms` ON (`t`.`id`=`studyForms_studyForms`.`contact_id`) LEFT OUTER JOIN `study_form` `studyForms` ON (`studyForms`.`id`=`studyForms_studyForms`.`study_form_id`)  LEFT OUTER JOIN `contact_purpose` `purposes_purposes` ON (`t`.`id`=`purposes_purposes`.`contact_id`) LEFT OUTER JOIN `purpose` `purposes` ON (`purposes`.`id`=`purposes_purposes`.`purpose_id`)  LEFT OUTER JOIN `contact_result` `results_results` ON (`t`.`id`=`results_results`.`contact_id`) LEFT OUTER JOIN `result` `results` ON (`results`.`id`=`results_results`.`result_id`)  WHERE (contact_type_id=:c_t_id AND DATEDIFF(CURDATE(), datetime)<=:days)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbGridView.php (68)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbExtendedGridView.php (234)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/_grid.php (80)
+2014/12/18 16:09:17 [trace] [system.db.ar.CActiveRecord] Contact.findAll()
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbGridView.php (68)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbExtendedGridView.php (234)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/_grid.php (80)
+2014/12/18 16:09:17 [trace] [system.db.CDbCommand] Querying SQL: SELECT `t`.`id` AS `t0_c0`, `t`.`client_id` AS `t0_c1`, `t`.`datetime` AS `t0_c2`, `t`.`contact_type_id` AS `t0_c3`, `t`.`contract_id` AS `t0_c4`, `t`.`comment` AS `t0_c5`, `t`.`recall` AS `t0_c6`, `t`.`event_id` AS `t0_c7`, `client`.`id` AS `t1_c0`, `client`.`name` AS `t1_c1`, `client`.`phone` AS `t1_c2`, `client`.`phone2` AS `t1_c3`, `client`.`phone3` AS `t1_c4`, `client`.`email` AS `t1_c5`, `client`.`age` AS `t1_c6`, `client`.`job` AS `t1_c7`, `client`.`user_id` AS `t1_c8`, `client`.`city_id` AS `t1_c9` FROM `contact` `t`  LEFT OUTER JOIN `client` `client` ON (`t`.`client_id`=`client`.`id`)  WHERE (contact_type_id=:c_t_id AND DATEDIFF(CURDATE(), datetime)<=:days) ORDER BY datetime DESC LIMIT 10
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbGridView.php (68)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbExtendedGridView.php (234)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/_grid.php (80)
+2014/12/18 16:09:17 [trace] [system.db.CDbCommand] Querying SQL: SELECT `t`.`id` AS `t0_c0`, `studyForms`.`id` AS `t2_c0`, `studyForms`.`parent_id` AS `t2_c1`, `studyForms`.`name` AS `t2_c2` FROM `contact` `t` LEFT OUTER JOIN `contact_study_form` `studyForms_studyForms` ON (`t`.`id`=`studyForms_studyForms`.`contact_id`) LEFT OUTER JOIN `study_form` `studyForms` ON (`studyForms`.`id`=`studyForms_studyForms`.`study_form_id`)  WHERE (`t`.`id`=16)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbGridView.php (68)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbExtendedGridView.php (234)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/_grid.php (80)
+2014/12/18 16:09:17 [trace] [system.db.CDbCommand] Querying SQL: SELECT `t`.`id` AS `t0_c0`, `purposes`.`id` AS `t3_c0`, `purposes`.`name` AS `t3_c1` FROM `contact` `t` LEFT OUTER JOIN `contact_purpose` `purposes_purposes` ON (`t`.`id`=`purposes_purposes`.`contact_id`) LEFT OUTER JOIN `purpose` `purposes` ON (`purposes`.`id`=`purposes_purposes`.`purpose_id`)  WHERE (`t`.`id`=16)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbGridView.php (68)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbExtendedGridView.php (234)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/_grid.php (80)
+2014/12/18 16:09:17 [trace] [system.db.CDbCommand] Querying SQL: SELECT `t`.`id` AS `t0_c0`, `results`.`id` AS `t4_c0`, `results`.`name` AS `t4_c1` FROM `contact` `t` LEFT OUTER JOIN `contact_result` `results_results` ON (`t`.`id`=`results_results`.`contact_id`) LEFT OUTER JOIN `result` `results` ON (`results`.`id`=`results_results`.`result_id`)  WHERE (`t`.`id`=16)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbGridView.php (68)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbExtendedGridView.php (234)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/_grid.php (80)
+2014/12/18 16:09:17 [trace] [system.CModule] Loading "format" application component
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbExtendedGridView.php (632)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbExtendedGridView.php (244)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/_grid.php (80)
+2014/12/18 16:10:15 [trace] [system.CModule] Loading "log" application component
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:10:15 [trace] [system.CModule] Loading "booster" application component
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:10:15 [trace] [system.CModule] Loading "clientScript" application component
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/components/Booster.php (420)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/components/Booster.php (212)
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:10:15 [trace] [system.CModule] Loading "request" application component
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/NLSClientScript.php (515)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/components/Booster.php (420)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/components/Booster.php (212)
+2014/12/18 16:10:15 [trace] [system.CModule] Loading "assetManager" application component
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/components/Booster.php (413)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/components/packages.php (14)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/components/Booster.php (260)
+2014/12/18 16:10:16 [trace] [system.CModule] Loading "urlManager" application component
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:10:16 [trace] [system.web.filters.CFilterChain] Running filter CallController.filteraccessControl()
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:10:16 [trace] [system.CModule] Loading "user" application component
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:10:16 [trace] [system.CModule] Loading "session" application component
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:10:16 [trace] [system.db.ar.CActiveRecord] ContactType.find()
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/models/ContactType.php (105)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (181)
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:10:16 [trace] [system.CModule] Loading "db" application component
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/models/ContactType.php (105)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (181)
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:10:16 [trace] [system.db.CDbConnection] Opening DB connection
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/models/ContactType.php (105)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (181)
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:10:16 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `contact_type`
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/models/ContactType.php (105)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (181)
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:10:16 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `contact_type`
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/models/ContactType.php (105)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (181)
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:10:16 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `contact_type` `t` WHERE name=:name LIMIT 1
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/models/ContactType.php (105)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (181)
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:10:16 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `contact`
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (86)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (183)
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:10:16 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `contact`
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (86)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (183)
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:10:16 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `client`
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (87)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (183)
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:10:16 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `client`
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (87)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (183)
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:10:16 [trace] [system.CModule] Loading "widgetFactory" application component
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/_form.php (17)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/create.php (16)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (102)
+2014/12/18 16:10:16 [trace] [system.db.ar.CActiveRecord] StudyForm.findAll()
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/_form.php (83)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/create.php (16)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (102)
+2014/12/18 16:10:16 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `study_form`
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/_form.php (83)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/create.php (16)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (102)
+2014/12/18 16:10:16 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `study_form`
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/_form.php (83)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/create.php (16)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (102)
+2014/12/18 16:10:16 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `study_form` `t` WHERE parent_id IS NULL
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/_form.php (83)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/create.php (16)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (102)
+2014/12/18 16:10:16 [trace] [system.db.ar.CActiveRecord] lazy loading Contact.studyForms
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/models/Contact.php (232)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbActiveForm.php (1293)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbActiveForm.php (1152)
+2014/12/18 16:10:16 [trace] [system.db.ar.CActiveRecord] ViewPurpose.findAll()
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/models/ViewPurpose.php (110)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/_form.php (94)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/create.php (16)
+2014/12/18 16:10:16 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `view_purpose`
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/models/ViewPurpose.php (110)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/_form.php (94)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/create.php (16)
+2014/12/18 16:10:16 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `view_purpose`
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/models/ViewPurpose.php (110)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/_form.php (94)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/create.php (16)
+2014/12/18 16:10:16 [trace] [system.db.CDbCommand] Querying SQL: SELECT purpose_id FROM `view_purpose` `t` WHERE contact_type_id=:c_t_id
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/models/ViewPurpose.php (110)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/_form.php (94)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/create.php (16)
+2014/12/18 16:10:16 [trace] [system.db.ar.CActiveRecord] Purpose.findAllByAttributes()
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/models/ViewPurpose.php (115)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/_form.php (94)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/create.php (16)
+2014/12/18 16:10:16 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `purpose`
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/models/ViewPurpose.php (115)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/_form.php (94)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/create.php (16)
+2014/12/18 16:10:16 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `purpose`
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/models/ViewPurpose.php (115)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/_form.php (94)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/create.php (16)
+2014/12/18 16:10:16 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `purpose` `t` WHERE `t`.`id` IN (1, 2, 3, 4, 5)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/models/ViewPurpose.php (115)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/_form.php (94)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/create.php (16)
+2014/12/18 16:10:16 [trace] [system.db.ar.CActiveRecord] lazy loading Contact.purposes
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/models/Contact.php (243)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbActiveForm.php (1293)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbActiveForm.php (1152)
+2014/12/18 16:10:16 [trace] [system.db.ar.CActiveRecord] ViewResult.findAll()
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/models/ViewResult.php (110)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/_form.php (105)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/create.php (16)
+2014/12/18 16:10:16 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `view_result`
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/models/ViewResult.php (110)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/_form.php (105)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/create.php (16)
+2014/12/18 16:10:16 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `view_result`
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/models/ViewResult.php (110)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/_form.php (105)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/create.php (16)
+2014/12/18 16:10:16 [trace] [system.db.CDbCommand] Querying SQL: SELECT result_id FROM `view_result` `t` WHERE contact_type_id=:c_t_id
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/models/ViewResult.php (110)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/_form.php (105)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/create.php (16)
+2014/12/18 16:10:16 [trace] [system.db.ar.CActiveRecord] Result.findAllByAttributes()
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/models/ViewResult.php (115)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/_form.php (105)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/create.php (16)
+2014/12/18 16:10:16 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `result`
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/models/ViewResult.php (115)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/_form.php (105)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/create.php (16)
+2014/12/18 16:10:16 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `result`
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/models/ViewResult.php (115)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/_form.php (105)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/create.php (16)
+2014/12/18 16:10:16 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `result` `t` WHERE `t`.`id` IN (1, 2, 3, 4, 5)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/models/ViewResult.php (115)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/_form.php (105)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/create.php (16)
+2014/12/18 16:10:16 [trace] [system.db.ar.CActiveRecord] lazy loading Contact.results
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/models/Contact.php (254)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbActiveForm.php (1293)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbActiveForm.php (1152)
+2014/12/18 16:10:16 [trace] [system.db.ar.CActiveRecord] Contact.count()
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbGridView.php (68)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbExtendedGridView.php (234)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/_grid.php (80)
+2014/12/18 16:10:17 [trace] [system.db.ar.CActiveRecord] Contact.count() eagerly
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbGridView.php (68)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbExtendedGridView.php (234)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/_grid.php (80)
+2014/12/18 16:10:17 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `contact_study_form`
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbGridView.php (68)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbExtendedGridView.php (234)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/_grid.php (80)
+2014/12/18 16:10:17 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `contact_study_form`
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbGridView.php (68)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbExtendedGridView.php (234)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/_grid.php (80)
+2014/12/18 16:10:17 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `contact_purpose`
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbGridView.php (68)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbExtendedGridView.php (234)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/_grid.php (80)
+2014/12/18 16:10:17 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `contact_purpose`
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbGridView.php (68)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbExtendedGridView.php (234)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/_grid.php (80)
+2014/12/18 16:10:17 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `contact_result`
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbGridView.php (68)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbExtendedGridView.php (234)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/_grid.php (80)
+2014/12/18 16:10:17 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `contact_result`
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbGridView.php (68)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbExtendedGridView.php (234)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/_grid.php (80)
+2014/12/18 16:10:17 [trace] [system.db.CDbCommand] Querying SQL: SELECT COUNT(DISTINCT `t`.`id`) FROM `contact` `t`  LEFT OUTER JOIN `client` `client` ON (`t`.`client_id`=`client`.`id`)  LEFT OUTER JOIN `contact_study_form` `studyForms_studyForms` ON (`t`.`id`=`studyForms_studyForms`.`contact_id`) LEFT OUTER JOIN `study_form` `studyForms` ON (`studyForms`.`id`=`studyForms_studyForms`.`study_form_id`)  LEFT OUTER JOIN `contact_purpose` `purposes_purposes` ON (`t`.`id`=`purposes_purposes`.`contact_id`) LEFT OUTER JOIN `purpose` `purposes` ON (`purposes`.`id`=`purposes_purposes`.`purpose_id`)  LEFT OUTER JOIN `contact_result` `results_results` ON (`t`.`id`=`results_results`.`contact_id`) LEFT OUTER JOIN `result` `results` ON (`results`.`id`=`results_results`.`result_id`)  WHERE (contact_type_id=:c_t_id AND DATEDIFF(CURDATE(), datetime)<=:days)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbGridView.php (68)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbExtendedGridView.php (234)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/_grid.php (80)
+2014/12/18 16:10:17 [trace] [system.db.ar.CActiveRecord] Contact.findAll()
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbGridView.php (68)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbExtendedGridView.php (234)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/_grid.php (80)
+2014/12/18 16:10:17 [trace] [system.db.CDbCommand] Querying SQL: SELECT `t`.`id` AS `t0_c0`, `t`.`client_id` AS `t0_c1`, `t`.`datetime` AS `t0_c2`, `t`.`contact_type_id` AS `t0_c3`, `t`.`contract_id` AS `t0_c4`, `t`.`comment` AS `t0_c5`, `t`.`recall` AS `t0_c6`, `t`.`event_id` AS `t0_c7`, `client`.`id` AS `t1_c0`, `client`.`name` AS `t1_c1`, `client`.`phone` AS `t1_c2`, `client`.`phone2` AS `t1_c3`, `client`.`phone3` AS `t1_c4`, `client`.`email` AS `t1_c5`, `client`.`age` AS `t1_c6`, `client`.`job` AS `t1_c7`, `client`.`user_id` AS `t1_c8`, `client`.`city_id` AS `t1_c9` FROM `contact` `t`  LEFT OUTER JOIN `client` `client` ON (`t`.`client_id`=`client`.`id`)  WHERE (contact_type_id=:c_t_id AND DATEDIFF(CURDATE(), datetime)<=:days) ORDER BY datetime DESC LIMIT 10
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbGridView.php (68)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbExtendedGridView.php (234)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/_grid.php (80)
+2014/12/18 16:10:17 [trace] [system.db.CDbCommand] Querying SQL: SELECT `t`.`id` AS `t0_c0`, `studyForms`.`id` AS `t2_c0`, `studyForms`.`parent_id` AS `t2_c1`, `studyForms`.`name` AS `t2_c2` FROM `contact` `t` LEFT OUTER JOIN `contact_study_form` `studyForms_studyForms` ON (`t`.`id`=`studyForms_studyForms`.`contact_id`) LEFT OUTER JOIN `study_form` `studyForms` ON (`studyForms`.`id`=`studyForms_studyForms`.`study_form_id`)  WHERE (`t`.`id`=16)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbGridView.php (68)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbExtendedGridView.php (234)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/_grid.php (80)
+2014/12/18 16:10:17 [trace] [system.db.CDbCommand] Querying SQL: SELECT `t`.`id` AS `t0_c0`, `purposes`.`id` AS `t3_c0`, `purposes`.`name` AS `t3_c1` FROM `contact` `t` LEFT OUTER JOIN `contact_purpose` `purposes_purposes` ON (`t`.`id`=`purposes_purposes`.`contact_id`) LEFT OUTER JOIN `purpose` `purposes` ON (`purposes`.`id`=`purposes_purposes`.`purpose_id`)  WHERE (`t`.`id`=16)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbGridView.php (68)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbExtendedGridView.php (234)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/_grid.php (80)
+2014/12/18 16:10:17 [trace] [system.db.CDbCommand] Querying SQL: SELECT `t`.`id` AS `t0_c0`, `results`.`id` AS `t4_c0`, `results`.`name` AS `t4_c1` FROM `contact` `t` LEFT OUTER JOIN `contact_result` `results_results` ON (`t`.`id`=`results_results`.`contact_id`) LEFT OUTER JOIN `result` `results` ON (`results`.`id`=`results_results`.`result_id`)  WHERE (`t`.`id`=16)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbGridView.php (68)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbExtendedGridView.php (234)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/_grid.php (80)
+2014/12/18 16:10:17 [trace] [system.CModule] Loading "coreMessages" application component
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbButtonColumn.php (44)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbGridView.php (125)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbGridView.php (68)
+2014/12/18 16:10:17 [trace] [system.CModule] Loading "format" application component
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbExtendedGridView.php (632)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbExtendedGridView.php (244)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/_grid.php (80)
+2014/12/18 16:10:22 [trace] [system.CModule] Loading "log" application component
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:10:22 [trace] [system.CModule] Loading "booster" application component
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:10:22 [trace] [system.CModule] Loading "clientScript" application component
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/components/Booster.php (420)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/components/Booster.php (212)
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:10:22 [trace] [system.CModule] Loading "request" application component
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/NLSClientScript.php (515)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/components/Booster.php (420)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/components/Booster.php (212)
+2014/12/18 16:10:22 [trace] [system.CModule] Loading "assetManager" application component
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/components/Booster.php (413)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/components/packages.php (14)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/components/Booster.php (260)
+2014/12/18 16:10:22 [trace] [system.CModule] Loading "urlManager" application component
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:10:22 [trace] [system.web.filters.CFilterChain] Running filter CallController.filteraccessControl()
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:10:22 [trace] [system.CModule] Loading "user" application component
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:10:22 [trace] [system.CModule] Loading "session" application component
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:10:22 [trace] [system.db.ar.CActiveRecord] Contact.findByPk()
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (211)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (113)
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:10:22 [trace] [system.CModule] Loading "db" application component
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (211)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (113)
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:10:22 [trace] [system.db.CDbConnection] Opening DB connection
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (211)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (113)
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:10:22 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `contact`
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (211)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (113)
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:10:22 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `contact`
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (211)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (113)
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:10:22 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `client`
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (211)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (113)
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:10:22 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `client`
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (211)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (113)
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:10:22 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `study_form`
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (211)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (113)
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:10:22 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `study_form`
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (211)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (113)
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:10:22 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `purpose`
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (211)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (113)
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:10:22 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `purpose`
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (211)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (113)
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:10:22 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `result`
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (211)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (113)
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:10:22 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `result`
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (211)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (113)
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:10:22 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `contact_study_form`
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (211)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (113)
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:10:22 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `contact_study_form`
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (211)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (113)
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:10:22 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `contact_purpose`
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (211)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (113)
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:10:22 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `contact_purpose`
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (211)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (113)
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:10:22 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `contact_result`
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (211)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (113)
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:10:22 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `contact_result`
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (211)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (113)
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:10:22 [trace] [system.db.CDbCommand] Querying SQL: SELECT `t`.`id` AS `t0_c0`, `t`.`client_id` AS `t0_c1`, `t`.`datetime` AS `t0_c2`, `t`.`contact_type_id` AS `t0_c3`, `t`.`contract_id` AS `t0_c4`, `t`.`comment` AS `t0_c5`, `t`.`recall` AS `t0_c6`, `t`.`event_id` AS `t0_c7`, `client`.`id` AS `t1_c0`, `client`.`name` AS `t1_c1`, `client`.`phone` AS `t1_c2`, `client`.`phone2` AS `t1_c3`, `client`.`phone3` AS `t1_c4`, `client`.`email` AS `t1_c5`, `client`.`age` AS `t1_c6`, `client`.`job` AS `t1_c7`, `client`.`user_id` AS `t1_c8`, `client`.`city_id` AS `t1_c9`, `studyForms`.`id` AS `t2_c0`, `studyForms`.`parent_id` AS `t2_c1`, `studyForms`.`name` AS `t2_c2`, `purposes`.`id` AS `t3_c0`, `purposes`.`name` AS `t3_c1`, `results`.`id` AS `t4_c0`, `results`.`name` AS `t4_c1` FROM `contact` `t`  LEFT OUTER JOIN `client` `client` ON (`t`.`client_id`=`client`.`id`)  LEFT OUTER JOIN `contact_study_form` `studyForms_studyForms` ON (`t`.`id`=`studyForms_studyForms`.`contact_id`) LEFT OUTER JOIN `study_form` `studyForms` ON (`studyForms`.`id`=`studyForms_studyForms`.`study_form_id`)  LEFT OUTER JOIN `contact_purpose` `purposes_purposes` ON (`t`.`id`=`purposes_purposes`.`contact_id`) LEFT OUTER JOIN `purpose` `purposes` ON (`purposes`.`id`=`purposes_purposes`.`purpose_id`)  LEFT OUTER JOIN `contact_result` `results_results` ON (`t`.`id`=`results_results`.`contact_id`) LEFT OUTER JOIN `result` `results` ON (`results`.`id`=`results_results`.`result_id`)  WHERE (`t`.`id`=16)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (211)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (113)
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:10:22 [trace] [system.CModule] Loading "widgetFactory" application component
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/_form.php (17)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/update.php (16)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (126)
+2014/12/18 16:10:22 [trace] [system.db.ar.CActiveRecord] StudyForm.findAll()
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/_form.php (83)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/update.php (16)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (126)
+2014/12/18 16:10:22 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `study_form` `t` WHERE parent_id IS NULL
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/_form.php (83)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/update.php (16)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (126)
+2014/12/18 16:10:22 [trace] [system.db.ar.CActiveRecord] ViewPurpose.findAll()
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/models/ViewPurpose.php (110)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/_form.php (94)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/update.php (16)
+2014/12/18 16:10:22 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `view_purpose`
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/models/ViewPurpose.php (110)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/_form.php (94)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/update.php (16)
+2014/12/18 16:10:22 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `view_purpose`
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/models/ViewPurpose.php (110)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/_form.php (94)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/update.php (16)
+2014/12/18 16:10:22 [trace] [system.db.CDbCommand] Querying SQL: SELECT purpose_id FROM `view_purpose` `t` WHERE contact_type_id=:c_t_id
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/models/ViewPurpose.php (110)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/_form.php (94)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/update.php (16)
+2014/12/18 16:10:22 [trace] [system.db.ar.CActiveRecord] Purpose.findAllByAttributes()
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/models/ViewPurpose.php (115)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/_form.php (94)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/update.php (16)
+2014/12/18 16:10:22 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `purpose` `t` WHERE `t`.`id` IN (1, 2, 3, 4, 5)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/models/ViewPurpose.php (115)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/_form.php (94)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/update.php (16)
+2014/12/18 16:10:22 [trace] [system.db.ar.CActiveRecord] ViewResult.findAll()
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/models/ViewResult.php (110)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/_form.php (105)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/update.php (16)
+2014/12/18 16:10:22 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `view_result`
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/models/ViewResult.php (110)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/_form.php (105)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/update.php (16)
+2014/12/18 16:10:22 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `view_result`
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/models/ViewResult.php (110)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/_form.php (105)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/update.php (16)
+2014/12/18 16:10:22 [trace] [system.db.CDbCommand] Querying SQL: SELECT result_id FROM `view_result` `t` WHERE contact_type_id=:c_t_id
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/models/ViewResult.php (110)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/_form.php (105)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/update.php (16)
+2014/12/18 16:10:22 [trace] [system.db.ar.CActiveRecord] Result.findAllByAttributes()
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/models/ViewResult.php (115)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/_form.php (105)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/update.php (16)
+2014/12/18 16:10:22 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `result` `t` WHERE `t`.`id` IN (1, 2, 3, 4, 5)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/models/ViewResult.php (115)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/_form.php (105)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/update.php (16)
+2014/12/18 16:10:22 [trace] [system.CModule] Loading "coreMessages" application component
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/layouts/main.php (44)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/layouts/column2.php (22)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (126)
+2014/12/18 16:10:27 [trace] [system.CModule] Loading "log" application component
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:10:27 [trace] [system.CModule] Loading "booster" application component
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:10:27 [trace] [system.CModule] Loading "clientScript" application component
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/components/Booster.php (420)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/components/Booster.php (212)
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:10:27 [trace] [system.CModule] Loading "request" application component
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/NLSClientScript.php (515)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/components/Booster.php (420)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/components/Booster.php (212)
+2014/12/18 16:10:27 [trace] [system.CModule] Loading "assetManager" application component
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/components/Booster.php (413)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/components/packages.php (14)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/components/Booster.php (260)
+2014/12/18 16:10:27 [trace] [system.CModule] Loading "urlManager" application component
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:10:27 [trace] [system.web.filters.CFilterChain] Running filter CallController.filteraccessControl()
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:10:27 [trace] [system.CModule] Loading "user" application component
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:10:27 [trace] [system.CModule] Loading "session" application component
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:10:27 [trace] [system.db.ar.CActiveRecord] ContactType.find()
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/models/ContactType.php (105)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (181)
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:10:27 [trace] [system.CModule] Loading "db" application component
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/models/ContactType.php (105)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (181)
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:10:27 [trace] [system.db.CDbConnection] Opening DB connection
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/models/ContactType.php (105)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (181)
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:10:27 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `contact_type`
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/models/ContactType.php (105)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (181)
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:10:27 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `contact_type`
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/models/ContactType.php (105)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (181)
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:10:27 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `contact_type` `t` WHERE name=:name LIMIT 1
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/models/ContactType.php (105)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (181)
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:10:27 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `contact`
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (86)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (183)
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:10:27 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `contact`
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (86)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (183)
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:10:27 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `client`
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (87)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (183)
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:10:27 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `client`
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (87)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (183)
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:10:27 [trace] [system.CModule] Loading "widgetFactory" application component
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/_form.php (17)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/create.php (16)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (102)
+2014/12/18 16:10:27 [trace] [system.db.ar.CActiveRecord] StudyForm.findAll()
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/_form.php (83)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/create.php (16)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (102)
+2014/12/18 16:10:27 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `study_form`
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/_form.php (83)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/create.php (16)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (102)
+2014/12/18 16:10:27 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `study_form`
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/_form.php (83)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/create.php (16)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (102)
+2014/12/18 16:10:27 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `study_form` `t` WHERE parent_id IS NULL
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/_form.php (83)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/create.php (16)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (102)
+2014/12/18 16:10:27 [trace] [system.db.ar.CActiveRecord] lazy loading Contact.studyForms
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/models/Contact.php (232)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbActiveForm.php (1293)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbActiveForm.php (1152)
+2014/12/18 16:10:27 [trace] [system.db.ar.CActiveRecord] ViewPurpose.findAll()
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/models/ViewPurpose.php (110)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/_form.php (94)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/create.php (16)
+2014/12/18 16:10:27 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `view_purpose`
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/models/ViewPurpose.php (110)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/_form.php (94)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/create.php (16)
+2014/12/18 16:10:27 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `view_purpose`
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/models/ViewPurpose.php (110)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/_form.php (94)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/create.php (16)
+2014/12/18 16:10:27 [trace] [system.db.CDbCommand] Querying SQL: SELECT purpose_id FROM `view_purpose` `t` WHERE contact_type_id=:c_t_id
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/models/ViewPurpose.php (110)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/_form.php (94)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/create.php (16)
+2014/12/18 16:10:27 [trace] [system.db.ar.CActiveRecord] Purpose.findAllByAttributes()
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/models/ViewPurpose.php (115)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/_form.php (94)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/create.php (16)
+2014/12/18 16:10:27 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `purpose`
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/models/ViewPurpose.php (115)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/_form.php (94)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/create.php (16)
+2014/12/18 16:10:27 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `purpose`
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/models/ViewPurpose.php (115)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/_form.php (94)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/create.php (16)
+2014/12/18 16:10:27 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `purpose` `t` WHERE `t`.`id` IN (1, 2, 3, 4, 5)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/models/ViewPurpose.php (115)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/_form.php (94)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/create.php (16)
+2014/12/18 16:10:27 [trace] [system.db.ar.CActiveRecord] lazy loading Contact.purposes
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/models/Contact.php (243)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbActiveForm.php (1293)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbActiveForm.php (1152)
+2014/12/18 16:10:27 [trace] [system.db.ar.CActiveRecord] ViewResult.findAll()
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/models/ViewResult.php (110)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/_form.php (105)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/create.php (16)
+2014/12/18 16:10:27 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `view_result`
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/models/ViewResult.php (110)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/_form.php (105)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/create.php (16)
+2014/12/18 16:10:27 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `view_result`
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/models/ViewResult.php (110)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/_form.php (105)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/create.php (16)
+2014/12/18 16:10:27 [trace] [system.db.CDbCommand] Querying SQL: SELECT result_id FROM `view_result` `t` WHERE contact_type_id=:c_t_id
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/models/ViewResult.php (110)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/_form.php (105)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/create.php (16)
+2014/12/18 16:10:27 [trace] [system.db.ar.CActiveRecord] Result.findAllByAttributes()
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/models/ViewResult.php (115)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/_form.php (105)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/create.php (16)
+2014/12/18 16:10:27 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `result`
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/models/ViewResult.php (115)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/_form.php (105)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/create.php (16)
+2014/12/18 16:10:27 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `result`
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/models/ViewResult.php (115)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/_form.php (105)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/create.php (16)
+2014/12/18 16:10:27 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `result` `t` WHERE `t`.`id` IN (1, 2, 3, 4, 5)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/models/ViewResult.php (115)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/_form.php (105)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/create.php (16)
+2014/12/18 16:10:27 [trace] [system.db.ar.CActiveRecord] lazy loading Contact.results
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/models/Contact.php (254)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbActiveForm.php (1293)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbActiveForm.php (1152)
+2014/12/18 16:10:27 [trace] [system.db.ar.CActiveRecord] Contact.count()
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbGridView.php (68)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbExtendedGridView.php (234)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/_grid.php (80)
+2014/12/18 16:10:27 [trace] [system.db.ar.CActiveRecord] Contact.count() eagerly
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbGridView.php (68)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbExtendedGridView.php (234)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/_grid.php (80)
+2014/12/18 16:10:27 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `contact_study_form`
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbGridView.php (68)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbExtendedGridView.php (234)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/_grid.php (80)
+2014/12/18 16:10:27 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `contact_study_form`
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbGridView.php (68)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbExtendedGridView.php (234)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/_grid.php (80)
+2014/12/18 16:10:27 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `contact_purpose`
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbGridView.php (68)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbExtendedGridView.php (234)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/_grid.php (80)
+2014/12/18 16:10:27 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `contact_purpose`
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbGridView.php (68)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbExtendedGridView.php (234)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/_grid.php (80)
+2014/12/18 16:10:27 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `contact_result`
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbGridView.php (68)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbExtendedGridView.php (234)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/_grid.php (80)
+2014/12/18 16:10:27 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `contact_result`
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbGridView.php (68)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbExtendedGridView.php (234)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/_grid.php (80)
+2014/12/18 16:10:27 [trace] [system.db.CDbCommand] Querying SQL: SELECT COUNT(DISTINCT `t`.`id`) FROM `contact` `t`  LEFT OUTER JOIN `client` `client` ON (`t`.`client_id`=`client`.`id`)  LEFT OUTER JOIN `contact_study_form` `studyForms_studyForms` ON (`t`.`id`=`studyForms_studyForms`.`contact_id`) LEFT OUTER JOIN `study_form` `studyForms` ON (`studyForms`.`id`=`studyForms_studyForms`.`study_form_id`)  LEFT OUTER JOIN `contact_purpose` `purposes_purposes` ON (`t`.`id`=`purposes_purposes`.`contact_id`) LEFT OUTER JOIN `purpose` `purposes` ON (`purposes`.`id`=`purposes_purposes`.`purpose_id`)  LEFT OUTER JOIN `contact_result` `results_results` ON (`t`.`id`=`results_results`.`contact_id`) LEFT OUTER JOIN `result` `results` ON (`results`.`id`=`results_results`.`result_id`)  WHERE (contact_type_id=:c_t_id AND DATEDIFF(CURDATE(), datetime)<=:days)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbGridView.php (68)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbExtendedGridView.php (234)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/_grid.php (80)
+2014/12/18 16:10:27 [trace] [system.db.ar.CActiveRecord] Contact.findAll()
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbGridView.php (68)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbExtendedGridView.php (234)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/_grid.php (80)
+2014/12/18 16:10:27 [trace] [system.db.CDbCommand] Querying SQL: SELECT `t`.`id` AS `t0_c0`, `t`.`client_id` AS `t0_c1`, `t`.`datetime` AS `t0_c2`, `t`.`contact_type_id` AS `t0_c3`, `t`.`contract_id` AS `t0_c4`, `t`.`comment` AS `t0_c5`, `t`.`recall` AS `t0_c6`, `t`.`event_id` AS `t0_c7`, `client`.`id` AS `t1_c0`, `client`.`name` AS `t1_c1`, `client`.`phone` AS `t1_c2`, `client`.`phone2` AS `t1_c3`, `client`.`phone3` AS `t1_c4`, `client`.`email` AS `t1_c5`, `client`.`age` AS `t1_c6`, `client`.`job` AS `t1_c7`, `client`.`user_id` AS `t1_c8`, `client`.`city_id` AS `t1_c9` FROM `contact` `t`  LEFT OUTER JOIN `client` `client` ON (`t`.`client_id`=`client`.`id`)  WHERE (contact_type_id=:c_t_id AND DATEDIFF(CURDATE(), datetime)<=:days) ORDER BY datetime DESC LIMIT 10
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbGridView.php (68)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbExtendedGridView.php (234)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/_grid.php (80)
+2014/12/18 16:10:27 [trace] [system.db.CDbCommand] Querying SQL: SELECT `t`.`id` AS `t0_c0`, `studyForms`.`id` AS `t2_c0`, `studyForms`.`parent_id` AS `t2_c1`, `studyForms`.`name` AS `t2_c2` FROM `contact` `t` LEFT OUTER JOIN `contact_study_form` `studyForms_studyForms` ON (`t`.`id`=`studyForms_studyForms`.`contact_id`) LEFT OUTER JOIN `study_form` `studyForms` ON (`studyForms`.`id`=`studyForms_studyForms`.`study_form_id`)  WHERE (`t`.`id`=16)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbGridView.php (68)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbExtendedGridView.php (234)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/_grid.php (80)
+2014/12/18 16:10:27 [trace] [system.db.CDbCommand] Querying SQL: SELECT `t`.`id` AS `t0_c0`, `purposes`.`id` AS `t3_c0`, `purposes`.`name` AS `t3_c1` FROM `contact` `t` LEFT OUTER JOIN `contact_purpose` `purposes_purposes` ON (`t`.`id`=`purposes_purposes`.`contact_id`) LEFT OUTER JOIN `purpose` `purposes` ON (`purposes`.`id`=`purposes_purposes`.`purpose_id`)  WHERE (`t`.`id`=16)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbGridView.php (68)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbExtendedGridView.php (234)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/_grid.php (80)
+2014/12/18 16:10:27 [trace] [system.db.CDbCommand] Querying SQL: SELECT `t`.`id` AS `t0_c0`, `results`.`id` AS `t4_c0`, `results`.`name` AS `t4_c1` FROM `contact` `t` LEFT OUTER JOIN `contact_result` `results_results` ON (`t`.`id`=`results_results`.`contact_id`) LEFT OUTER JOIN `result` `results` ON (`results`.`id`=`results_results`.`result_id`)  WHERE (`t`.`id`=16)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbGridView.php (68)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbExtendedGridView.php (234)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/_grid.php (80)
+2014/12/18 16:10:27 [trace] [system.CModule] Loading "coreMessages" application component
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbButtonColumn.php (44)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbGridView.php (125)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbGridView.php (68)
+2014/12/18 16:10:27 [trace] [system.CModule] Loading "format" application component
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbExtendedGridView.php (632)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/extensions/booster/widgets/TbExtendedGridView.php (244)
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/views/call/_grid.php (80)
+2014/12/18 16:12:18 [warning] [application] Failed to set unsafe attribute "clientName" of "Contact".
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (142)
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:12:18 [warning] [application] Failed to set unsafe attribute "clientPhone" of "Contact".
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (142)
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:12:19 [warning] [application] Failed to set unsafe attribute "clientName" of "Contact".
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (142)
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:12:19 [warning] [application] Failed to set unsafe attribute "clientPhone" of "Contact".
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (142)
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:13:01 [warning] [application] Failed to set unsafe attribute "clientName" of "Contact".
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (142)
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:13:01 [warning] [application] Failed to set unsafe attribute "clientPhone" of "Contact".
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (142)
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:13:03 [warning] [application] Failed to set unsafe attribute "clientName" of "Contact".
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (142)
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:13:03 [warning] [application] Failed to set unsafe attribute "clientPhone" of "Contact".
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (142)
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:13:09 [warning] [application] Failed to set unsafe attribute "clientName" of "Contact".
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (142)
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:13:09 [warning] [application] Failed to set unsafe attribute "clientPhone" of "Contact".
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (142)
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:13:10 [warning] [application] Failed to set unsafe attribute "clientName" of "Contact".
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (142)
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:13:10 [warning] [application] Failed to set unsafe attribute "clientPhone" of "Contact".
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (142)
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:13:10 [warning] [application] Failed to set unsafe attribute "clientName" of "Contact".
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (142)
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:13:10 [warning] [application] Failed to set unsafe attribute "clientPhone" of "Contact".
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (142)
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:13:14 [warning] [application] Failed to set unsafe attribute "clientName" of "Contact".
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (142)
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:13:14 [warning] [application] Failed to set unsafe attribute "clientPhone" of "Contact".
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (142)
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:13:14 [warning] [application] Failed to set unsafe attribute "clientName" of "Contact".
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (142)
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:13:14 [warning] [application] Failed to set unsafe attribute "clientPhone" of "Contact".
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (142)
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:13:21 [warning] [application] Failed to set unsafe attribute "clientName" of "Contact".
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (142)
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:13:21 [warning] [application] Failed to set unsafe attribute "clientPhone" of "Contact".
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (142)
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:13:21 [warning] [application] Failed to set unsafe attribute "clientName" of "Contact".
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (142)
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:13:21 [warning] [application] Failed to set unsafe attribute "clientPhone" of "Contact".
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (142)
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:13:22 [warning] [application] Failed to set unsafe attribute "clientName" of "Contact".
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (142)
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:13:22 [warning] [application] Failed to set unsafe attribute "clientPhone" of "Contact".
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (142)
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:13:25 [warning] [application] Failed to set unsafe attribute "clientName" of "Contact".
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (142)
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:13:25 [warning] [application] Failed to set unsafe attribute "clientPhone" of "Contact".
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (142)
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:13:30 [warning] [application] Failed to set unsafe attribute "clientName" of "Contact".
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (142)
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:13:30 [warning] [application] Failed to set unsafe attribute "clientPhone" of "Contact".
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (142)
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:13:30 [warning] [application] Failed to set unsafe attribute "clientName" of "Contact".
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (142)
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:13:30 [warning] [application] Failed to set unsafe attribute "clientPhone" of "Contact".
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (142)
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:13:33 [warning] [application] Failed to set unsafe attribute "clientName" of "Contact".
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (142)
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:13:33 [warning] [application] Failed to set unsafe attribute "clientPhone" of "Contact".
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (142)
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:13:33 [warning] [application] Failed to set unsafe attribute "clientName" of "Contact".
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (142)
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:13:33 [warning] [application] Failed to set unsafe attribute "clientPhone" of "Contact".
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (142)
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:13:35 [warning] [application] Failed to set unsafe attribute "clientName" of "Contact".
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (142)
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:13:35 [warning] [application] Failed to set unsafe attribute "clientPhone" of "Contact".
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (142)
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:13:40 [warning] [application] Failed to set unsafe attribute "clientName" of "Contact".
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (142)
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:13:40 [warning] [application] Failed to set unsafe attribute "clientPhone" of "Contact".
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (142)
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:13:42 [warning] [application] Failed to set unsafe attribute "clientName" of "Contact".
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (142)
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:13:42 [warning] [application] Failed to set unsafe attribute "clientPhone" of "Contact".
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (142)
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:14:03 [warning] [application] Failed to set unsafe attribute "clientName" of "Contact".
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (142)
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:14:03 [warning] [application] Failed to set unsafe attribute "clientPhone" of "Contact".
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (142)
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:14:33 [warning] [application] Failed to set unsafe attribute "clientName" of "Contact".
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (142)
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:14:33 [warning] [application] Failed to set unsafe attribute "clientPhone" of "Contact".
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (142)
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:14:37 [warning] [application] Failed to set unsafe attribute "clientName" of "Contact".
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (142)
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:14:37 [warning] [application] Failed to set unsafe attribute "clientPhone" of "Contact".
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (142)
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:14:42 [warning] [application] Failed to set unsafe attribute "clientName" of "Contact".
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (142)
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:14:42 [warning] [application] Failed to set unsafe attribute "clientPhone" of "Contact".
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (142)
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:14:48 [warning] [application] Failed to set unsafe attribute "clientName" of "Contact".
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (142)
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:14:48 [warning] [application] Failed to set unsafe attribute "clientPhone" of "Contact".
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (142)
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:15:03 [warning] [application] Failed to set unsafe attribute "clientName" of "Contact".
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (142)
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:15:03 [warning] [application] Failed to set unsafe attribute "clientPhone" of "Contact".
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (142)
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:15:24 [warning] [application] Failed to set unsafe attribute "clientName" of "Contact".
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (142)
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:15:24 [warning] [application] Failed to set unsafe attribute "clientPhone" of "Contact".
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (142)
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:15:25 [warning] [application] Failed to set unsafe attribute "clientName" of "Contact".
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (142)
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:15:25 [warning] [application] Failed to set unsafe attribute "clientPhone" of "Contact".
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (142)
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:16:23 [warning] [application] Failed to set unsafe attribute "clientName" of "Contact".
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (142)
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:16:23 [warning] [application] Failed to set unsafe attribute "clientPhone" of "Contact".
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (142)
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:16:24 [warning] [application] Failed to set unsafe attribute "clientName" of "Contact".
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (142)
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:16:24 [warning] [application] Failed to set unsafe attribute "clientPhone" of "Contact".
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (142)
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:16:24 [warning] [application] Failed to set unsafe attribute "clientName" of "Contact".
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (142)
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:16:24 [warning] [application] Failed to set unsafe attribute "clientPhone" of "Contact".
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (142)
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:16:27 [warning] [application] Failed to set unsafe attribute "clientName" of "Contact".
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (142)
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:16:27 [warning] [application] Failed to set unsafe attribute "clientPhone" of "Contact".
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (142)
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:16:27 [warning] [application] Failed to set unsafe attribute "clientName" of "Contact".
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (142)
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:16:27 [warning] [application] Failed to set unsafe attribute "clientPhone" of "Contact".
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (142)
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:16:28 [warning] [application] Failed to set unsafe attribute "clientName" of "Contact".
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (142)
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:16:28 [warning] [application] Failed to set unsafe attribute "clientPhone" of "Contact".
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (142)
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:16:30 [warning] [application] Failed to set unsafe attribute "clientName" of "Contact".
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (142)
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:16:30 [warning] [application] Failed to set unsafe attribute "clientPhone" of "Contact".
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (142)
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:16:30 [warning] [application] Failed to set unsafe attribute "clientName" of "Contact".
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (142)
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:16:30 [warning] [application] Failed to set unsafe attribute "clientPhone" of "Contact".
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (142)
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:16:43 [warning] [application] Failed to set unsafe attribute "clientName" of "Contact".
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (142)
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:16:43 [warning] [application] Failed to set unsafe attribute "clientPhone" of "Contact".
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (142)
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:16:47 [warning] [application] Failed to set unsafe attribute "clientName" of "Contact".
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (142)
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:16:47 [warning] [application] Failed to set unsafe attribute "clientPhone" of "Contact".
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (142)
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:16:50 [warning] [application] Failed to set unsafe attribute "clientName" of "Contact".
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (142)
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:16:50 [warning] [application] Failed to set unsafe attribute "clientPhone" of "Contact".
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (142)
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:17:06 [warning] [application] Failed to set unsafe attribute "clientName" of "Contact".
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (142)
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:17:06 [warning] [application] Failed to set unsafe attribute "clientPhone" of "Contact".
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (142)
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:17:07 [warning] [application] Failed to set unsafe attribute "clientName" of "Contact".
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (142)
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:17:07 [warning] [application] Failed to set unsafe attribute "clientPhone" of "Contact".
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (142)
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:17:08 [warning] [application] Failed to set unsafe attribute "clientName" of "Contact".
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (142)
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:17:08 [warning] [application] Failed to set unsafe attribute "clientPhone" of "Contact".
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (142)
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:18:09 [warning] [application] Failed to set unsafe attribute "clientName" of "Contact".
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (142)
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:18:09 [warning] [application] Failed to set unsafe attribute "clientPhone" of "Contact".
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (142)
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:18:10 [warning] [application] Failed to set unsafe attribute "clientName" of "Contact".
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (142)
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:18:10 [warning] [application] Failed to set unsafe attribute "clientPhone" of "Contact".
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (142)
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:18:10 [warning] [application] Failed to set unsafe attribute "clientName" of "Contact".
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (142)
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:18:10 [warning] [application] Failed to set unsafe attribute "clientPhone" of "Contact".
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (142)
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:18:41 [warning] [application] Failed to set unsafe attribute "clientName" of "Contact".
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (142)
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:18:41 [warning] [application] Failed to set unsafe attribute "clientPhone" of "Contact".
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (142)
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:18:41 [warning] [application] Failed to set unsafe attribute "clientName" of "Contact".
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (142)
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:18:41 [warning] [application] Failed to set unsafe attribute "clientPhone" of "Contact".
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (142)
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:18:45 [warning] [application] Failed to set unsafe attribute "clientName" of "Contact".
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (142)
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:18:45 [warning] [application] Failed to set unsafe attribute "clientPhone" of "Contact".
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (142)
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:18:46 [warning] [application] Failed to set unsafe attribute "clientName" of "Contact".
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (142)
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:18:46 [warning] [application] Failed to set unsafe attribute "clientPhone" of "Contact".
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (142)
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:18:49 [warning] [application] Failed to set unsafe attribute "clientName" of "Contact".
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (142)
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:18:49 [warning] [application] Failed to set unsafe attribute "clientPhone" of "Contact".
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (142)
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:18:49 [warning] [application] Failed to set unsafe attribute "clientName" of "Contact".
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (142)
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:18:49 [warning] [application] Failed to set unsafe attribute "clientPhone" of "Contact".
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (142)
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:23:00 [warning] [application] Failed to set unsafe attribute "clientName" of "Contact".
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (142)
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:23:00 [warning] [application] Failed to set unsafe attribute "clientPhone" of "Contact".
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (142)
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:23:05 [warning] [application] Failed to set unsafe attribute "clientName" of "Contact".
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (142)
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:23:05 [warning] [application] Failed to set unsafe attribute "clientPhone" of "Contact".
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (142)
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:23:11 [warning] [application] Failed to set unsafe attribute "clientName" of "Contact".
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (142)
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:23:11 [warning] [application] Failed to set unsafe attribute "clientPhone" of "Contact".
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (142)
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:23:35 [warning] [application] Failed to set unsafe attribute "clientName" of "Contact".
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (142)
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:23:35 [warning] [application] Failed to set unsafe attribute "clientPhone" of "Contact".
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (142)
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:23:46 [warning] [application] Failed to set unsafe attribute "clientName" of "Contact".
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (142)
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:23:46 [warning] [application] Failed to set unsafe attribute "clientPhone" of "Contact".
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (142)
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:23:54 [warning] [application] Failed to set unsafe attribute "clientName" of "Contact".
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (142)
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:23:54 [warning] [application] Failed to set unsafe attribute "clientPhone" of "Contact".
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (142)
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:23:55 [warning] [application] Failed to set unsafe attribute "clientName" of "Contact".
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (142)
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:23:55 [warning] [application] Failed to set unsafe attribute "clientPhone" of "Contact".
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (142)
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:23:58 [warning] [application] Failed to set unsafe attribute "clientName" of "Contact".
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (142)
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:23:58 [warning] [application] Failed to set unsafe attribute "clientPhone" of "Contact".
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (142)
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:24:05 [warning] [application] Failed to set unsafe attribute "clientName" of "Contact".
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (142)
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
+2014/12/18 16:24:05 [warning] [application] Failed to set unsafe attribute "clientPhone" of "Contact".
+in /home/order15141/data/www/stitch.kh.ua/yii/protected/controllers/CallController.php (142)
+in /home/order15141/data/www/stitch.kh.ua/yii/index.php (13)
