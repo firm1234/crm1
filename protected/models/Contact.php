@@ -49,7 +49,13 @@ class Contact extends CActiveRecord
             //array('client', 'safe'),
 			// The following rule is used by search().
 			// @todo Please remove those attributes that should not be searched.
-			array('datetime, comment, client.phone, client.name', 'safe', 'on'=>'search'),
+            // Необходимо для вкладки Interview
+            array('datetime, comment, client.phone,
+			        client.name,
+			        client.email,
+			        client.age,
+			        client.job,
+			        ', 'safe', 'on'=>'search'),
 		);
 	}
 
@@ -110,6 +116,12 @@ class Contact extends CActiveRecord
 		$criteria->compare('comment',$this->comment,true);
         $criteria->compare('client.name', $this->clientName, true);
         $criteria->compare('client.phone',$this->clientPhone, true);
+        // Необходимо для вкладки Interview
+        $criteria->compare('client.email',$this->clientEmail, true);
+        $criteria->compare('client.age',$this->clientAge, true);
+        $criteria->compare('client.job',$this->clientJob, true);
+        $criteria->compare('client.user_id',$this->clientUser, true);
+        $criteria->compare('client.city_id',$this->clientCity, true);
 
 		return new CActiveDataProvider($this, array(
 			'criteria'=>$criteria,
@@ -165,14 +177,6 @@ class Contact extends CActiveRecord
 
     protected $days;
     /*propeties*/
-    public function getDays()
-    {
-        return $this->days;
-    }
-    public function setDays($value)
-    {
-        $this->days = $value;
-    }
     public function getClientName()
     {
         return $this->client->name;
@@ -181,6 +185,27 @@ class Contact extends CActiveRecord
     {
         return $this->client->phone;
     }
+    // Необходимо для вкладки Interview
+    public function getClientEmail()
+    {
+        return $this->client->email;
+    }
+    public function getClientAge()
+    {
+        return $this->client->age;
+    }
+    public function getClientJob()
+    {
+        return $this->client->job;
+    }
+    public function getClientUser()
+    {
+        return $this->client->user_id;
+    }
+    public function getClientCity()
+    {
+        return $this->client->city_id;
+    }
     public function setClientName($value)
     {
         $this->client->name = $value;
@@ -188,6 +213,26 @@ class Contact extends CActiveRecord
     public function setClientPhone($value)
     {
         $this->client->phone = $value;
+    }
+    public function setClientEmail($value)
+    {
+        $this->client->email = $value;
+    }
+    public function setClientAge($value)
+    {
+        $this->client->age = $value;
+    }
+    public function setClientJob($value)
+    {
+        $this->client->job = $value;
+    }
+    public function setClientUser($value)
+    {
+        $this->client->user_id = $value;
+    }
+    public function setClientCity($value)
+    {
+        $this->client->city_id = $value;
     }
     public function getPurposeString()
     {
