@@ -177,6 +177,11 @@ class Contact extends CActiveRecord
 
     protected $days;
     /*propeties*/
+    //=====================GET====================
+    public function getDays()
+    {
+        return $this->days;
+    }
     public function getClientName()
     {
         return $this->client->name;
@@ -205,6 +210,11 @@ class Contact extends CActiveRecord
     public function getClientCity()
     {
         return $this->client->city_id;
+    }
+    //=====================SET====================
+    public function setDays($value)
+    {
+        $this->days = $value;
     }
     public function setClientName($value)
     {
