@@ -70,16 +70,16 @@ class Client extends CActiveRecord
 	public function attributeLabels()
 	{
 		return array(
-            'id' => 'ID',
-            'name' => 'ФИО',
-            'phone' => 'Телефон',
-            'phone2' => 'Phone2',
-            'phone3' => 'Phone3',
-            'email' => 'Email',
-            'age' => 'Возраст',
-            'job' => 'Место учебы(работы)',
-            'user_id' => 'Менеджер',
-            'city_id' => 'Город',
+			'id' => 'ID',
+			'name' => 'Name',
+			'phone' => 'Phone',
+			'phone2' => 'Phone2',
+			'phone3' => 'Phone3',
+			'email' => 'Email',
+			'age' => 'Age',
+			'job' => 'Job',
+			'user_id' => 'User',
+			'city_id' => 'City',
 		);
 	}
 
@@ -103,13 +103,6 @@ class Client extends CActiveRecord
 
 		$criteria->compare('name',$this->name,true);
 		$criteria->compare('phone',$this->phone,true);
-        $criteria->compare('phone2',$this->phone2,true);
-        $criteria->compare('phone3',$this->phone3,true);
-        $criteria->compare('email',$this->email,true);
-        $criteria->compare('age',$this->age);
-        $criteria->compare('job',$this->job,true);
-        $criteria->compare('user_id',$this->user_id);
-        $criteria->compare('city_id',$this->city_id);
 
 		return new CActiveDataProvider($this, array(
 			'criteria'=>$criteria,
